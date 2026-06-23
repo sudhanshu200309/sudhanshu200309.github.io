@@ -1,0 +1,22 @@
+[
+  {
+    "issue_id": "ISS1001",
+    "book_id": "BK1001",
+    "username": "sudhanshu",
+    "issue_date": "2026-05-06",
+    "due_date": "2026-05-20",
+    "return_date": null,
+    "fine": 0,
+    "status": "issued"
+  },
+  {
+    "issue_id": "ISS1002",
+    "book_id": "BK1004",
+    "username": "sudhanshu",
+    "issue_date": "2026-05-06",
+    "due_date": "2026-05-20",
+    "return_date": null,
+    "fine": 0,
+    "status": "issued"
+  }
+]
